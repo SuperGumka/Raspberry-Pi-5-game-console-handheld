@@ -5,4 +5,5 @@
  So it's not just a gaming console, but a handheld computer.
  ## Bill of Materials:
 | Name | Purpose | Quanity | Price | Link | Distributor |
+|-------------------------------------------------------|
 | On-Off switch (For power bank)| On-Off switch used to turn On/Off the power bank.(The listed price is for 5 pieces but only 1 piece is used.) | 1 | https://pl.aliexpress.com/item/1005007945027854.html?spm=a2g0o.order_list.order_list_main.265.f8191c24WFr5Z1&gatewayAdapt=glo2pol | AliExpress |
