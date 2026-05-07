@@ -32,13 +32,13 @@ Running on a lightweight 64-bit Raspberry Pi OS Bookworm Lite with RetroPie inst
 Nothing here (for now).
 ## 📸 Photos
 ### Power Bank
-![Isometric View 1](Photos/)
+![Isometric View 1](Photos/IMG_0660.jpeg)
 
-![Isometric View 2](Photos/)
+![Isometric View 2](Photos/IMG_0656.jpeg)
 
-![Front](Photos/)
+![Front](Photos/IMG_0661.jpeg)
 
-![Top](Photos/)
+![Top](Photos/IMG_0662.jpeg)
 ### Console
 Nothing here (for now)
 ## 📋Bill of Materials:
