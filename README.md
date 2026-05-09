@@ -6,7 +6,7 @@ RaspiCore™ Deck is a high-performance handheld emulation console built around 
 The device features a custom DIY power bank capable of supplying up to 8 amps, ensuring stable performance even under heavy load and extended gaming sessions.
 
 Running on a lightweight 64-bit Raspberry Pi OS Bookworm Lite with RetroPie installed, the system provides a flexible and customizable environment for emulation, allowing users to run a wide range of classic consoles through optimized third-party emulators.
-## Why I decided to make this
+## 💡Why I decided to make this
 For 2 years from now I'm interested in electric engineering, and in that time I made lots of small electrionic pcbs and devices. But I wanted to build something original and better than this 30 minutes pcb projects, so i decide to give a try building a handheld console using raspberry pi 5 and named it _RaspiCore™ Deck._
 ## 📐 CAD Design
 ### Power Bank's case
@@ -43,6 +43,9 @@ Nothing here (for now).
 ![Top](Photos/IMG_0662.jpeg)
 ### Console
 Nothing here (for now)
+## 🔌 Schematics
+### Power Bank
+![Pb_Schematic](Schematics/PbSchematic.png)
 ## 📋Bill of Materials:
 | Name | Purpose | Quanity | Price | Link | Distributor |
 |------|---------|---------|-------|------|-------------|
@@ -61,4 +64,4 @@ Nothing here (for now)
 | MicroSD card Goodram 128gb | MicroSD card that contains OS, games, files, emulators, etc. | 1 | $9.08 | [Link](https://botland.com.pl/karty-pamieci-microsd-sd/24111-karta-pamieci-goodram-m1aa-microsd-128gb-100mbs-uhs-i-klasa-10-z-adapterem-5908267930168.html) | Botland |
 | Raspberry Pi 5 Active Cooler | 	It’s for cooling the Raspberry Pi 5. | 1 | $6.87 | [Link](https://botland.com.pl/elementy-montazowe-raspberry-pi-5/23925-raspberry-pi-active-cooler-aktywne-chlodzenie-radiator-wentylator-do-raspberry-pi-5-5056561803357.html) | Botland |
 | Raspberry Pi 5 4gb | It’s the main part of the project, it emulate games, and make this project work. | 1 | $76.71 | [Link](https://botland.com.pl/moduly-i-zestawy-raspberry-pi-5/23904-raspberry-pi-5-4gb-5056561803319.html) | Botland |
-| 4 meters of 16 awg silicone cable | Cable used for connecting parts in powerbank and it also connect power bank with rpi 5. | 1 | $4.14 | [Link](https://allegro.pl/oferta/przewod-silikonowy-amass-16awg-1-m-elastyczny-brazowy-18343387470) | Allegro |
+| 4 meters of awg 16 silicone cable | Cable used for connecting parts in powerbank and it also connect power bank with rpi 5. | 1 | $4.14 | [Link](https://allegro.pl/oferta/przewod-silikonowy-amass-16awg-1-m-elastyczny-brazowy-18343387470) | Allegro |
